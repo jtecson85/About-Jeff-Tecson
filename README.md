@@ -24,3 +24,4 @@ CSS
 
 
 # Link to deployed application
+https://jtecson85.github.io/GiftHub/
